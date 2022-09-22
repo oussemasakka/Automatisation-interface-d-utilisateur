@@ -1,0 +1,11 @@
+[TRACE] 2022-09-21 10:29:38.889 [main] log4jdemo - trace
+[INFO ] 2022-09-21 10:29:38.902 [main] log4jdemo - info
+[ERROR] 2022-09-21 10:29:38.902 [main] log4jdemo - error
+[WARN ] 2022-09-21 10:29:38.902 [main] log4jdemo - warn
+[FATAL] 2022-09-21 10:29:38.903 [main] log4jdemo - fatal
+//////////////////////////////////
+[TRACE] 2022-09-21 12:05:46.767 [main] log4jdemo - trace
+[INFO ] 2022-09-21 12:05:46.776 [main] log4jdemo - info
+[ERROR] 2022-09-21 12:05:46.776 [main] log4jdemo - error
+[WARN ] 2022-09-21 12:05:46.776 [main] log4jdemo - warn
+[FATAL] 2022-09-21 12:05:46.776 [main] log4jdemo - fatal

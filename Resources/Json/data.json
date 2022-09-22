@@ -1,0 +1,36 @@
+{
+  "login": [
+    {
+      "name": "oussemasakka@spark-it.fr",
+      "pwd": "Azerty123***",
+      "Searchname": "oussema",
+      "expectedTitle": "Total Ventes",
+      "wrongmail": "oussemas",
+      "mailerrone": "E-mail erroné",
+      "notcorrect": "not correct",
+      "Rôle": "Rôle",
+      "Motdepasseerroné": "Mot de passe erroné",
+      "mailetmotdepasserequis": "E-mail et mot de passe requis",
+      "Empty": "",
+      "Searchnamenotfound": "ahmeeeed",
+      "roledesigner": "Stark_Light_Admin",
+
+
+
+
+
+      "newname": "akram",
+      "newlastname": "sakka",
+      "desiredlangue": "Français",
+      "newpwd": "Azerty123***",
+      "newmail": "oussema.sakka24@gmail.com",
+      "newroledesigner": "BR"
+
+
+
+
+
+    }
+  ]
+}
+
